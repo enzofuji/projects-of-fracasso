@@ -1,0 +1,57 @@
+body {
+  background-color: #FFF6A0;
+  padding-bottom: 100px;
+  margin: auto;
+}
+
+
+h1, h2 {
+  font-family: monospace;
+  color: yellow;
+}
+
+
+p, ul, a {
+  font-family: monospace;
+  color: gray;
+}
+
+
+ul {
+  line-height: 26pt;
+}
+
+
+img {
+  float: left;
+  margin-right: 30px;
+  width: 130px;
+  border-radius: 50%;
+}
+
+
+#curriculo {
+  background-color: black;
+  width: 500px;
+  height: auto;
+  border-radius: 0px 0px 20px 20px;
+  padding: 80px;
+  margin: auto;
+}
+
+
+#topo {
+  width: 450px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+
+hr {
+	border: 0;
+	border-top: 1px solid #1f1f1f;
+  margin-bottom: 50px;
+}
+
